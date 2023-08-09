@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hariharan.sivakumar/Desktop/MLops_engineering/mlflow/mlflow/mlruns/0/cd35edb4ebc2465493bd12e5a04d97c5/artifacts
+end_time: 1691587749067
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd35edb4ebc2465493bd12e5a04d97c5
+run_name: aged-eel-699
+run_uuid: cd35edb4ebc2465493bd12e5a04d97c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691587748998
+status: 3
+tags: []
+user_id: Hariharan.Sivakumar

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hariharan.sivakumar/Desktop/MLops_engineering/mlflow/mlflow/mlruns/0/a344139cbc9a462a82a29a28c5f836aa/artifacts
+end_time: 1691587759092
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a344139cbc9a462a82a29a28c5f836aa
+run_name: loud-dog-393
+run_uuid: a344139cbc9a462a82a29a28c5f836aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691587759020
+status: 3
+tags: []
+user_id: Hariharan.Sivakumar
